@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "completed": false,
+      "title": "doing laundry",
+      "id": 23
+    },
+    {
+      "title": "Doing MAD Assignment",
+      "completed": true,
+      "id": 24
+    },
+    {
+      "title": "gghjjkjhg",
+      "completed": true,
+      "id": 25
+    }
+  ]
+}
